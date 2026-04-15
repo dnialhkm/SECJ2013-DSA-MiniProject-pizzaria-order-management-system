@@ -1294,23 +1294,6 @@ int main()
     cout << endl;
     system("pause");
     
-    // Task 1
-    // simpan semua data customer dalam file untuk guna dekat report
-    // start simpan data dekat line 1043
-    // start reporting dekat line 1058
-
-    // Task 2
-    // buat satu receipt yang tunjuk semua makanan and harga, cust name, phone no, order id, order status
-    // kalau combo dapat discount sikit
-    // kalau tak combo, harga normal
-    // start dekat line 1225
-
-    // contoh boleh guna ni dalam receipt
-    // cout << endl;
-    // cout << "Name: " << newOrder->order.getCustName() << endl;
-    // cout << "OrderID: " << newOrder->order.getOrderID() << endl;
-    // cout << "Order Status: " << newOrder->order.getOrderStatus() << endl;
-    
     goto customer;
 
     return 0;
